@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/Project/Pjoect/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Widget/BP_FactoryWidget.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Meshes/SM_AssemblyLine01.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Meshes/SM_AssemblyLine02.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Meshes/SM_AssemblyLineBox01.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Meshes/SM_AssemblyLineTable01.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Meshes/SM_AssemblyLineCorner.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Sample.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/92/XL7FPAMTWE6SXBR7LRS49B.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/IS/BUAV1EOUHFTWS97EC999CM.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/DH/8S7KEGBPJZF5MTLPT0TXWF.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/LF/YDTMIM5EKZM6NSFXBL8BLR.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Sample2.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/GM/T5C54U1V8KPMA9AWK1C2ED.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Sample3.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/J8/JK2CYT6RBOPRFUQGA8NXZI.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Sample3_Car.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Sample2_Box.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Sample_Box.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Level/LV_Factory.umap",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Belt.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Belt2.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/NewBehaviorTree.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Belt_Corner.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BP_Corner.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/NewBlackboardData.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BT_Sample.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Project/Sample/BB_Sample.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Meshes/SM_AssemblyLineCorner.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Meshes/SM_AssemblyLineTable01.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Meshes/SM_AssemblyLineBox01.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Meshes/SM_AssemblyLine02.uasset",
+				"C:/Unreal Projects/Project/Pjoect/Content/Meshes/SM_AssemblyLine01.uasset"
+			]
+		}
+	]
+}
